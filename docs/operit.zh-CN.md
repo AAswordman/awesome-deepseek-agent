@@ -17,7 +17,7 @@ Operit 是一款开源 Android AI Agent，提供全方位的助理能力。DeepS
 
 Operit 会自动填写 `deepseek-v4-flash`。
 
-DeepSeek V4 支持最高 100 万 token 上下文。
+DeepSeek V4 支持最高 100 万 token 上下文，可以在 Operit 的上下文压缩设置里修改想要使用的上下文量。
 
 如果需要手动配置，打开 `设置` -> `模型与参数配置`，新建一个配置，并填写：
 
