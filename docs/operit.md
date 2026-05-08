@@ -2,7 +2,7 @@
 
 # Integrate with Operit
 
-Operit is an Android AI Agent that provides all-around assistant capabilities. DeepSeek V4 can be used through Operit's built-in DeepSeek setup or through an OpenAI-compatible endpoint.
+Operit is an open-source Android AI Agent that provides all-around assistant capabilities. DeepSeek V4 can be used through Operit's built-in DeepSeek setup or through an OpenAI-compatible endpoint.
 
 #### 1. Install Operit
 

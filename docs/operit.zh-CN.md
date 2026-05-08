@@ -2,7 +2,7 @@
 
 # 接入 Operit
 
-Operit 是一款 Android AI Agent，提供全方位的助理能力。DeepSeek V4 可以通过 Operit 内置的 DeepSeek 引导接入，也可以通过 OpenAI 兼容端点手动配置。
+Operit 是一款开源 Android AI Agent，提供全方位的助理能力。DeepSeek V4 可以通过 Operit 内置的 DeepSeek 引导接入，也可以通过 OpenAI 兼容端点手动配置。
 
 #### 1. 安装 Operit
 
