@@ -17,6 +17,8 @@ During first-run setup, tap `Get token`. Operit will open its built-in DeepSeek 
 
 Operit will automatically fill in `deepseek-v4-flash`.
 
+DeepSeek V4 supports up to a 1M-token context window.
+
 To configure it manually, open `Settings` -> `Model and Parameter Configuration`, create a configuration, and use:
 
 ```text
