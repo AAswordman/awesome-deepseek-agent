@@ -15,6 +15,7 @@
 
 | 工具            | 简介                                                                  | 指南                                |
 | --------------- | --------------------------------------------------------------------- | ----------------------------------- |
+| **Operit** | Android AI Agent，提供全方位的助理能力。 | [指南](./docs/operit.zh-CN.md) |
 | **Claude Code** | 运行在终端内的 AI 编程助手。                                          | [指南](./docs/claude_code.zh-CN.md) |
 | **GitHub Copilot** | 内置于 VS Code 的 AI 编程助手。 | [指南](./docs/github_copilot.zh-CN.md) |
 | **GitHub Copilot CLI** | 终端原生的 AI 编程助手，支持 Agent 能力。 | [指南](./docs/copilot_cli.zh-CN.md) |

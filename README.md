@@ -15,6 +15,7 @@ Each guide walks through installation, configuration, and first run — so you c
 
 | Tool            | Description                                                                                                 | Guide                          |
 | --------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| **Operit** | Android AI Agent that provides all-around assistant capabilities. | [Guide](./docs/operit.md) |
 | **Claude Code** | AI coding assistant that runs in the terminal.                                                              | [Guide](./docs/claude_code.md) |
 | **GitHub Copilot** | AI peer programmer built into VS Code. | [Guide](./docs/github_copilot.md) |
 | **GitHub Copilot CLI** | Terminal-native AI coding assistant with agentic capabilities. | [Guide](./docs/copilot_cli.md) |
